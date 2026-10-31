@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/netflow-inspector/actions/workflows/python-checks.yml/badge.svg)
+
 # Netflow Inspector
 
 A small offline analyzer for CSV or JSON Lines flow exports. It aggregates protocols, bytes, packets and top source/destination IPs.
